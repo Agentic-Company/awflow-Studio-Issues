@@ -5,6 +5,7 @@ Welcome to the **official issue tracker** for [Agentic Workflow Studio](https://
 This repository exists **exclusively for user feedback, bug reports, and feature requests**.
 
 
+<br>
 
 
 ## 📬 Purpose of This Repository
@@ -20,6 +21,7 @@ This one is dedicated to **community interaction**, allowing you to:
 > ⚠️ **No source code is hosted here.**  
 
 
+<br>
 
 
 ## 🐛 Reporting Bugs
@@ -34,6 +36,7 @@ When reporting a bug, please include:
 You can [open a new issue here](https://github.com/Agentic-Company/awflow-Studio-Issues/issues/new?template=%F0%9F%90%9E-bug-report.md).
 
 
+<br>
 
 
 ## 💡 Suggesting Features
@@ -48,6 +51,7 @@ When suggesting features, please describe:
 You can [opeen request a new Feature here](https://github.com/Agentic-Company/awflow-Studio-Issues/issues/new?template=%F0%9F%92%A1-feature-request.md)
 
 
+<br>
 
 
 ## 🗓️ Roadmap & Updates
@@ -56,6 +60,7 @@ To follow updates, new releases, or milestones:
 🔗 [Check the main repository’s roadmap and changelog](https://github.com/orgs/Agentic-Company/projects/4/views/3)
 
 
+<br>
 
 
 ## 🌐 About Agentic Workflow Studio
@@ -68,6 +73,7 @@ To follow updates, new releases, or milestones:
 - 🛠️ Enable easy integration with custom web apps  
 
 
+<br>
 
 
 ## 🗣️ Community
@@ -77,6 +83,7 @@ To follow updates, new releases, or milestones:
 - 🌍 Website: [awflow.io](https://awflow.io)
 
 
+<br>
 
 
 ## 🪪 License
@@ -85,6 +92,7 @@ This issue tracker is open and public under the **MIT License**.
 The main project may use a different license — please refer to that repository for details.
 
 
+<br>
 
 
 ### ❤️ Thank You!
