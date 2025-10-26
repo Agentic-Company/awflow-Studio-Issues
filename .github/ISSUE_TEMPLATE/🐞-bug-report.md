@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
+name: "\U0001F41E Bug Report"
+about: Report a problem or unexpected behavior in "Agentic Workflow Studio"
+title: "[BUG] : "
 labels: bug
 assignees: dannickstark
 
